@@ -2,7 +2,7 @@
 					/*
 					Plugin Name: Add Your Team
 					Description: A Plugin to add staff member's or employee's of the company/organisation.
-					Version:1.0
+					Version:1.0.1
 					Author: priyanshu.mittal
 					Author URI: http://appointpress.com
 					Plugin URI: http://appointpress.com

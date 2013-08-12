@@ -2,7 +2,7 @@
 Contributors: priyanshu.mittal
 Donate Link: http://appointpress.com
 Tags: Wordpress Team Member,Team Member,Add Team Member,Staff Member,Manage Staff
-Stable tag: 1.0
+Stable tag: 1.0.1
 Requires at least: 3.3+
 Tested up to: 3.5.2
 License: GPLv2 or later
