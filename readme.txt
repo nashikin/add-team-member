@@ -1,5 +1,5 @@
 === Add-Team-Member===
-Contributors: Priyanshu Mittal
+Contributors: priyanshu.mittal
 Donate Link: http://appointpress.com
 Tags: Wordpress Team Member,Team Member,Add Team Member,Staff Member,Manage Staff
 Stable tag: 1.0
